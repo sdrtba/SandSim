@@ -1,4 +1,3 @@
-#include <iostream>
 #include <SFML/Graphics.hpp>
 #include <vector>
 
@@ -7,6 +6,39 @@ const int WIDTH = 480;
 const int HEIGHT = 640;
 const int CELL_SIZE = 4;
 
+
+class Cell {
+private:
+	sf::Color color;
+	bool empty;
+public:
+	Cell(sf::Color color, bool empty) {
+		this->color = color;
+		this->empty = empty;
+	}
+
+	void update() {
+
+	}
+};
+
+class Sand : Cell {
+private:
+	sf::Color color = sf::Color::Yellow;
+public:
+	Sand() : Cell(color, false) {
+		
+	}
+};
+
+class Empty : Cell {
+private:
+	sf::Color color = sf::Color::Black;
+public:
+	Empty() : Cell(color, true) {
+
+	}
+};
 
 class Grid {
 private:

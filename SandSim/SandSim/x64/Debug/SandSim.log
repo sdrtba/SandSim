@@ -1,7 +1,7 @@
 ﻿  main.cpp
-C:\Users\sdrtb\OneDrive\Рабочий стол\SandSim\SandSim\SandSim\main.cpp(74,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\sdrtb\OneDrive\Рабочий стол\SandSim\SandSim\SandSim\main.cpp(115,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-C:\Users\sdrtb\OneDrive\Рабочий стол\SandSim\SandSim\SandSim\main.cpp(115,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Workspace\ISTU\ООП\SandSim\SandSim\SandSim\main.cpp(106,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Workspace\ISTU\ООП\SandSim\SandSim\SandSim\main.cpp(147,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Workspace\ISTU\ООП\SandSim\SandSim\SandSim\main.cpp(147,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
 sfml-graphics-s-d.lib(Transformable.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(Transformable.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
 sfml-graphics-s-d.lib(Color.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(Color.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
 sfml-graphics-s-d.lib(Shape.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(Shape.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
@@ -57,4 +57,4 @@ sfml-system-s-d.lib(MutexImpl.obj) : warning LNK4099: "" PDB не найден �
 sfml-system-s-d.lib(ClockImpl.obj) : warning LNK4099: "" PDB не найден с "sfml-system-s-d.lib(ClockImpl.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
 sfml-system-s-d.lib(SleepImpl.obj) : warning LNK4099: "" PDB не найден с "sfml-system-s-d.lib(SleepImpl.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
 sfml-system-s-d.lib(ThreadLocalImpl.obj) : warning LNK4099: "" PDB не найден с "sfml-system-s-d.lib(ThreadLocalImpl.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
-  SandSim.vcxproj -> C:\Users\sdrtb\OneDrive\Рабочий стол\SandSim\SandSim\x64\Debug\SandSim.exe
+  SandSim.vcxproj -> C:\Workspace\ISTU\ООП\SandSim\SandSim\x64\Debug\SandSim.exe
