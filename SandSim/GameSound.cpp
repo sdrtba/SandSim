@@ -13,7 +13,7 @@ void GameSound::stop(int index) {
 }
 
 void GameSound::AllStop() {
-	for (int i = 0; i < n; i++) {
+	for (int i = 0; i < sCount; i++) {
 		if (GSound[i].getStatus() == sf::SoundSource::Status::Playing) {
 			GSound[i].stop();
 		}

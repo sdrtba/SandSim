@@ -15,12 +15,12 @@ bool Button::checkClick(sf::Vector2i mousePos) {
 			&& (static_cast<float>(mousePos.y) > currentSprite->getPosition().y &&
 				static_cast<float>(mousePos.y) < (currentSprite->getPosition().y + currentSprite->getGlobalBounds().height)))
 		{
-			setState(!current);
+			setState(!isClicked);
 			return true;
 		}
 		else {
-			if (current) {
-				setState(!current);
+			if (isClicked) {
+				setState(!isClicked);
 				return false;
 			}
 		}
@@ -28,9 +28,9 @@ bool Button::checkClick(sf::Vector2i mousePos) {
 	return false;
 }
 
-void Button::setState(bool which) {
-	current = which;
-	if (current) {
+void Button::setState(bool state) {
+	isClicked = state;
+	if (isClicked) {
 		currentSprite = &clicked;
 		return;
 	}

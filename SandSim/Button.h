@@ -12,6 +12,6 @@ private:
 	sf::Sprite normal;
 	sf::Sprite clicked;
 	sf::Sprite* currentSprite;
-	bool current = false;
+	bool isClicked = false;
 	void setState(bool);
 };

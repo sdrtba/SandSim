@@ -1,16 +1,16 @@
 #pragma once
 #include <array>
-#include <SFML/Audio.hpp>
+#include <SFML\Audio.hpp>
 #include "AssetManager.h"
 
 class GameSound {
 private:
-	static const int n = 2;
-	std::array<sf::Sound, n> GSound;
+	static const int sCount = 1;
+	std::array<sf::Sound, sCount> GSound;
 public:
 	GameSound() {
-		std::array<std::string, n> namefilebuf{ "sound/back.ogg", "sound/back1.ogg" };
-		for (int i = 0; i < n; i++) {
+		std::array<std::string, sCount> namefilebuf{ "sound/back.ogg" };
+		for (int i = 0; i < sCount; i++) {
 			GSound[i].setBuffer(AssetManager::GetSoundBuffer(namefilebuf[i]));
 		}
 		GSound[0].setLoop(true);
