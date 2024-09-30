@@ -1,50 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\",
+  "WorkspaceRootPath": "C:\\Users\\sdrtb\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0ABDAF5E-24E4-476F-B012-06A7D40BDB7A}|SandSim\\SandSim.vcxproj|C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\GameEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0ABDAF5E-24E4-476F-B012-06A7D40BDB7A}|SandSim\\SandSim.vcxproj|solutionrelative:SandSim\\GameEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABDAF5E-24E4-476F-B012-06A7D40BDB7A}|SandSim\\SandSim.vcxproj|C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\GameEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0ABDAF5E-24E4-476F-B012-06A7D40BDB7A}|SandSim\\SandSim.vcxproj|solutionrelative:SandSim\\GameEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABDAF5E-24E4-476F-B012-06A7D40BDB7A}|SandSim\\SandSim.vcxproj|C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0ABDAF5E-24E4-476F-B012-06A7D40BDB7A}|SandSim\\SandSim.vcxproj|solutionrelative:SandSim\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABDAF5E-24E4-476F-B012-06A7D40BDB7A}|SandSim\\SandSim.vcxproj|C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0ABDAF5E-24E4-476F-B012-06A7D40BDB7A}|SandSim\\SandSim.vcxproj|solutionrelative:SandSim\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABDAF5E-24E4-476F-B012-06A7D40BDB7A}|SandSim\\SandSim.vcxproj|C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\GameSound.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0ABDAF5E-24E4-476F-B012-06A7D40BDB7A}|SandSim\\SandSim.vcxproj|solutionrelative:SandSim\\GameSound.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABDAF5E-24E4-476F-B012-06A7D40BDB7A}|SandSim\\SandSim.vcxproj|C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0ABDAF5E-24E4-476F-B012-06A7D40BDB7A}|SandSim\\SandSim.vcxproj|solutionrelative:SandSim\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABDAF5E-24E4-476F-B012-06A7D40BDB7A}|SandSim\\SandSim.vcxproj|C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0ABDAF5E-24E4-476F-B012-06A7D40BDB7A}|SandSim\\SandSim.vcxproj|solutionrelative:SandSim\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABDAF5E-24E4-476F-B012-06A7D40BDB7A}|SandSim\\SandSim.vcxproj|C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\AssetManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0ABDAF5E-24E4-476F-B012-06A7D40BDB7A}|SandSim\\SandSim.vcxproj|solutionrelative:SandSim\\AssetManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABDAF5E-24E4-476F-B012-06A7D40BDB7A}|SandSim\\SandSim.vcxproj|C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\GameSound.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0ABDAF5E-24E4-476F-B012-06A7D40BDB7A}|SandSim\\SandSim.vcxproj|solutionrelative:SandSim\\GameSound.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABDAF5E-24E4-476F-B012-06A7D40BDB7A}|SandSim\\SandSim.vcxproj|C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0ABDAF5E-24E4-476F-B012-06A7D40BDB7A}|SandSim\\SandSim.vcxproj|C:\\Users\\sdrtb\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOP\\SandSim\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0ABDAF5E-24E4-476F-B012-06A7D40BDB7A}|SandSim\\SandSim.vcxproj|solutionrelative:SandSim\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABDAF5E-24E4-476F-B012-06A7D40BDB7A}|SandSim\\SandSim.vcxproj|C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\AssetManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0ABDAF5E-24E4-476F-B012-06A7D40BDB7A}|SandSim\\SandSim.vcxproj|solutionrelative:SandSim\\AssetManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,140 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GameEngine.cpp",
-              "DocumentMoniker": "C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\GameEngine.cpp",
-              "RelativeDocumentMoniker": "SandSim\\GameEngine.cpp",
-              "ToolTip": "C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\GameEngine.cpp",
-              "RelativeToolTip": "SandSim\\GameEngine.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-24T12:49:05.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GameEngine.h",
-              "DocumentMoniker": "C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\GameEngine.h",
-              "RelativeDocumentMoniker": "SandSim\\GameEngine.h",
-              "ToolTip": "C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\GameEngine.h",
-              "RelativeToolTip": "SandSim\\GameEngine.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-24T11:40:37.669Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Game.cpp",
-              "DocumentMoniker": "C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\Game.cpp",
-              "RelativeDocumentMoniker": "SandSim\\Game.cpp",
-              "ToolTip": "C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\Game.cpp",
-              "RelativeToolTip": "SandSim\\Game.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-24T12:14:03.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Game.h",
-              "DocumentMoniker": "C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\Game.h",
-              "RelativeDocumentMoniker": "SandSim\\Game.h",
-              "ToolTip": "C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\Game.h",
-              "RelativeToolTip": "SandSim\\Game.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-24T12:13:57.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GameSound.cpp",
-              "DocumentMoniker": "C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\GameSound.cpp",
-              "RelativeDocumentMoniker": "SandSim\\GameSound.cpp",
-              "ToolTip": "C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\GameSound.cpp",
-              "RelativeToolTip": "SandSim\\GameSound.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-24T12:14:53.488Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GameSound.h",
-              "DocumentMoniker": "C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\GameSound.h",
-              "RelativeDocumentMoniker": "SandSim\\GameSound.h",
-              "ToolTip": "C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\GameSound.h",
-              "RelativeToolTip": "SandSim\\GameSound.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-24T12:14:48.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AssetManager.cpp",
-              "DocumentMoniker": "C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\AssetManager.cpp",
-              "RelativeDocumentMoniker": "SandSim\\AssetManager.cpp",
-              "ToolTip": "C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\AssetManager.cpp",
-              "RelativeToolTip": "SandSim\\AssetManager.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-24T11:46:19.729Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AssetManager.h",
-              "DocumentMoniker": "C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\AssetManager.h",
-              "RelativeDocumentMoniker": "SandSim\\AssetManager.h",
-              "ToolTip": "C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\AssetManager.h",
-              "RelativeToolTip": "SandSim\\AssetManager.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-24T11:42:17.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Button.cpp",
-              "DocumentMoniker": "C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\Button.cpp",
-              "RelativeDocumentMoniker": "SandSim\\Button.cpp",
-              "ToolTip": "C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\Button.cpp",
-              "RelativeToolTip": "SandSim\\Button.cpp",
-              "ViewState": "AQIAABsAAAAAAAAAAAAQwCAAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-24T11:23:35.089Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Button.h",
-              "DocumentMoniker": "C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\Button.h",
-              "RelativeDocumentMoniker": "SandSim\\Button.h",
-              "ToolTip": "C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\Button.h",
-              "RelativeToolTip": "SandSim\\Button.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-24T11:19:00.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\sdrtb\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOP\\SandSim\\main.cpp",
               "RelativeDocumentMoniker": "SandSim\\main.cpp",
-              "ToolTip": "C:\\Workspace\\ISTU\\\u041E\u041E\u041F\\SandSim\\SandSim\\main.cpp",
+              "ToolTip": "C:\\Users\\sdrtb\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOP\\SandSim\\main.cpp",
               "RelativeToolTip": "SandSim\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-19T12:49:49.082Z"
+              "WhenOpened": "2024-09-30T07:25:41.767Z",
+              "EditorCaption": ""
             }
           ]
         }
